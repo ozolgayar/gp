@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<activities>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">ГД</name>
+			<description lang="und"/>
+			<launch>res/index.html</launch>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/B5E2986B-7BC9-4201-8FFF-A7BAA4D31A0E/slides/8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+	</activities>
+</tincan>
